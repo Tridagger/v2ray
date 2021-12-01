@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "2
-1
+echo "1
+2
 8888
 
 
