@@ -1,9 +1,9 @@
 #!/bin/bash
-echo "1
+echo "2
 1
 8888
 
 
 
-" | bash <(curl -s -L https://git.io/v2rayinstall.sh)
+" | bash <(curl -s -L https://git.io/JPDvV)
 v2ray url
